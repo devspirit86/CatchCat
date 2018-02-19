@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_win.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/win.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_life_icon.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/life_icon.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_r_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_r_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_menubtn.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/menubtn.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_side.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_side.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_kuang.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/kuang.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_tail.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/tail.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_stage.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/stage.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_front_r.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_front_r.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_daojishi.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/daojishi.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_top10_bg.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/top10_bg.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_r_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_r_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_lose.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/lose.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_numbers.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/numbers.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/layout_logo.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/layout/logo.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_r_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_r_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_bg.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/bg.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_zhangai.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/zhangai.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_titles.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/titles.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_num_level.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/num_level.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_r_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_r_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_help.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/help.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_gamefail.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/gamefail.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_logo.jpg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/logo.jpg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/xml_gameinit.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/xml/gameinit.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_option.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/option.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_r_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_r_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_r_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_r_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_r_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_r_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_timetiao.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/timetiao.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_num_gameover.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/num_gameover.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/layout_gamemenu.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/layout/gamemenu.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_level.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/level.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_side_r.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_side_r.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_timetip.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/timetip.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_r_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_r_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_timekuang.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/timekuang.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_front.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_front.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_r_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_r_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_r_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_r_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_catstep.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/catstep.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_back.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_back.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_gamewin.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/gamewin.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_orange.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/btn_orange.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_tail4.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_tail4.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_countscore.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/countscore.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_bg_coming.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/bg_coming.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_r_tail1.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_r_tail1.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_gameover.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/gameover.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/anim_logo_animation.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/anim/logo_animation.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/layout_menu.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_bonus.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/bonus.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_gamestart.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/gamestart.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_onoff.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/onoff.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_r_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_r_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_timeup.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/timeup.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_gameover.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/gameover.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_bonus.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/bonus.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_icon.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/icon.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_back_r_tail3.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/back_r_tail3.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_top10_icon.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/top10_icon.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_cat_back_r.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/cat_back_r.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_undo.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/undo.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_tail2.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_tail2.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_timeup.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/timeup.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/raw_musicbg.ogg.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/raw/musicbg.ogg"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_r_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_r_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_front_r_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/front_r_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_side_tail5.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/side_tail5.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_blue.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/btn_blue.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/drawable-nodpi_menu.png.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/drawable-nodpi/menu.png"
+    },
+    {
+        "merged": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/res/merged/debug/layout_message.xml.flat",
+        "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/layout/message.xml"
+    }
+]

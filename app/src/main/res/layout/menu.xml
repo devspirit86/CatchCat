@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layout"
+    android:background="@drawable/bg_coming" 
+    android:gravity ="center_vertical|right"
+    >
+<LinearLayout
+android:layout_width="@dimen/y203"
+android:layout_height="@dimen/x327"
+android:orientation="vertical"
+android:layout_marginRight="@dimen/y20"
+android:background="#00000000">
+	<ImageButton
+		android:id="@+id/play"
+		android:layout_width="@dimen/y203"
+	    android:layout_height="@dimen/x65"
+		android:background="@drawable/icon"
+	    >
+	</ImageButton>
+	<ImageButton
+		android:id="@+id/resume"
+		android:layout_width="@dimen/y203"
+	    android:layout_height="@dimen/x65"
+		android:background="@drawable/icon"
+	 >
+	</ImageButton>
+	<ImageButton
+		android:id="@+id/options"
+		android:layout_width="@dimen/y203"
+	    android:layout_height="@dimen/x65"
+		android:background="@drawable/icon"
+	 >
+	</ImageButton>
+	<ImageButton
+		android:id="@+id/help"
+		android:layout_width="@dimen/y203"
+	    android:layout_height="@dimen/x65"
+		android:background="@drawable/icon"
+	 >
+	</ImageButton>
+	
+	<ImageButton
+		android:id="@+id/exit"
+		android:layout_width="@dimen/y203"
+	    android:layout_height="@dimen/x65"
+		android:background="@drawable/icon"
+	 >
+	</ImageButton>
+</LinearLayout>
+</LinearLayout>

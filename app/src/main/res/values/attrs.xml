@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTextView">
+        <attr name="text" format="string" />
+        <attr name="text_rect_X" format="dimension" />
+        <attr name="text_rect_Y" format="dimension" />
+        <attr name="text_rect_width" format="dimension" />
+        <attr name="text_rect_height" format="dimension" />
+
+        <attr name="titleId" format="reference" />
+        <attr name="title_src_startX" format="dimension" />
+        <attr name="title_src_startY" format="dimension" />
+        <attr name="title_src_width" format="dimension" />
+        <attr name="title_src_height" format="dimension" />
+
+        <attr name="title_rect_startX" format="dimension" />
+        <attr name="title_rect_startY" format="dimension" />
+        <attr name="title_rect_width" format="dimension" />
+        <attr name="title_rect_height" format="dimension" />
+
+        <attr name="numberId" format="reference" />
+        <attr name="number_src_startX" format="dimension" />
+        <attr name="number_src_startY" format="dimension" />
+        <attr name="number_src_onewidth" format="dimension" />
+        <attr name="number_src_oneheight" format="dimension" />
+        <attr name="number_rect_onewidth" format="dimension" />
+        <attr name="number_rect_oneheight" format="dimension" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 文件头 -->
+<cat>
+<!-- level 1 尾 -->
+<stop >
+	<!-- level 1 中所有的阻碍 -->
+	<!-- stop_x代表行数 , stop_y代表列数 -->
+	<stopItem level = "1" stop_x="0" stop_y="1" />
+	<stopItem level = "1" stop_x="1" stop_y="1" />
+	<stopItem level = "1" stop_x="3" stop_y="7" />
+	<stopItem level = "2" stop_x="5" stop_y="1" />
+	<stopItem level = "2" stop_x="5" stop_y="1" />
+	<stopItem level = "2" stop_x="5" stop_y="7" />
+</stop>
+<!-- level 1 尾 -->
+</cat>
+<!-- 文件尾 -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CatchCat</string>
+    <!--游戏设置  顺序写死不能改动-->
+    <!-- 基本设置 -->
+    <integer-array name="config">
+    <item name="totaltime">120</item>
+    <item name="parttime">10</item>
+    <item name="h-score">12000</item>
+    <item name="linshiscore">100</item>
+    <item name="lives">3</item>
+    </integer-array>
+    <!-- 障碍数设置 -->
+    <integer-array name="stopin10level">
+    <item name="1">10</item>
+    <item name="2">10</item>
+    <item name="3">9</item>
+    <item name="4">9</item>
+    <item name="5">9</item>
+    <item name="6">8</item>
+    <item name="7">8</item>
+    <item name="8">8</item>
+    <item name="9">8</item>
+    <item name="10">8</item>
+    </integer-array>
+    <integer-array name="stop10to20">
+    <item name="1">7</item>
+    <item name="2">7</item>
+    <item name="3">7</item>
+    <item name="4">7</item>
+    <item name="5">7</item>
+    <item name="6">6</item>
+    <item name="7">6</item>
+    <item name="8">6</item>
+    <item name="9">6</item>
+    <item name="10">6</item>
+    </integer-array>
+    <integer-array name="out20">
+    <item name="1">5</item>
+    <item name="2">5</item>
+    <item name="3">5</item>
+    <item name="4">5</item>
+    <item name="5">5</item>
+    <item name="6">5</item>
+    <item name="7">5</item>
+    <item name="8">5</item>
+    <item name="9">5</item>
+    <item name="10">5</item>
+    </integer-array>
+</resources>

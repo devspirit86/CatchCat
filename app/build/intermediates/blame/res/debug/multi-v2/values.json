@@ -1,0 +1,25 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/huaichen/Documents/WorkDir/myGame/CatchCat2/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,9,21,33,46",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,294,629,969,2403",
+                        "endLines": "8,20,32,44,46",
+                        "endColumns": "20,20,20,20,45",
+                        "endOffsets": "289,624,964,1309,2444"
+                    }
+                }
+            ]
+        }
+    ]
+}

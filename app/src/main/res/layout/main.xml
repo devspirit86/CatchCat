@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layout"
+    android:background="@drawable/bg"
+   
+    >
+<LinearLayout
+    android:id="@+id/leftColumn"
+	android:orientation="vertical"
+	android:layout_width="@dimen/y183"
+	android:layout_height="fill_parent"
+	android:layout_marginTop="@dimen/x5"
+	android:layout_marginLeft="@dimen/y5"
+	
+>
+<spirit.parttime.cat.MyTextView
+    android:id="@+id/level"
+    android:layout_width="@dimen/y183"
+    android:layout_height="@dimen/x83"
+    android:background="@drawable/kuang"
+    app:text="3"
+	app:text_rect_X="@dimen/y7"
+	app:text_rect_Y="@dimen/x34"
+	app:text_rect_width="@dimen/y169"
+	app:text_rect_height="@dimen/x26"
+
+	app:titleId="@drawable/titles"
+	app:title_src_startX ="0px"
+	app:title_src_startY ="0px"
+	app:title_src_width ="183px"
+	app:title_src_height ="30px"
+	app:title_rect_startX="0px"
+	app:title_rect_startY="0px"
+	app:title_rect_width="@dimen/y183"
+	app:title_rect_height="@dimen/x30"
+
+	app:numberId="@drawable/numbers"
+	app:number_src_startX="0px"
+	app:number_src_startY="0px"
+	app:number_src_onewidth="15px"
+	app:number_src_oneheight="29px"
+	app:number_rect_onewidth="@dimen/y15"
+	app:number_rect_oneheight="@dimen/x29"
+    android:layout_marginBottom="@dimen/x5"
+    
+/>
+
+	<spirit.parttime.cat.MyTextView
+		android:id="@+id/score"
+		android:layout_width="@dimen/y183"
+		android:layout_height="@dimen/x83"
+		android:background="@drawable/kuang"
+		app:text="1112123"
+		app:text_rect_X="@dimen/y7"
+		app:text_rect_Y="@dimen/x34"
+		app:text_rect_width="@dimen/y169"
+		app:text_rect_height="@dimen/x26"
+
+		app:titleId="@drawable/titles"
+		app:title_src_startX ="0px"
+		app:title_src_startY ="28px"
+		app:title_src_width ="183px"
+		app:title_src_height ="30px"
+		app:title_rect_startX="0px"
+		app:title_rect_startY="0px"
+		app:title_rect_width="@dimen/y183"
+		app:title_rect_height="@dimen/x30"
+
+		app:numberId="@drawable/numbers"
+		app:number_src_startX="0px"
+		app:number_src_startY="0px"
+		app:number_src_onewidth="15px"
+		app:number_src_oneheight="29px"
+		app:number_rect_onewidth="@dimen/y15"
+		app:number_rect_oneheight="@dimen/x29"
+		android:layout_marginBottom="@dimen/x5"
+
+		/>
+
+
+<spirit.parttime.cat.MyLivesTextView
+	android:id="@+id/lives"
+    android:layout_width="@dimen/y183"
+    android:layout_height="@dimen/x83"
+    android:background="@drawable/kuang"
+    text="3"
+    textrect_X="7"
+    textrect_Y="34"
+    textrect_width="169"
+    textrect_height="26"
+    titleId="@drawable/titles"
+    title_startX ="0"
+    title_startY ="57"
+    title_width ="183"
+    title_height ="30"
+    numberId="@drawable/life_icon"
+    number_startX="0"
+    number_startY="0"
+    number_onewidth="40"
+    number_oneheight="43"
+    android:layout_marginBottom="80px"
+    
+/>
+
+	<spirit.parttime.cat.MyTextView
+		android:id="@+id/hscore"
+		android:layout_width="@dimen/y183"
+		android:layout_height="@dimen/x83"
+		android:background="@drawable/kuang"
+		app:text="1234567890"
+		app:text_rect_X="@dimen/y7"
+		app:text_rect_Y="@dimen/x34"
+		app:text_rect_width="@dimen/y169"
+		app:text_rect_height="@dimen/x26"
+
+		app:titleId="@drawable/titles"
+		app:title_src_startX ="0px"
+		app:title_src_startY ="87px"
+		app:title_src_width ="183px"
+		app:title_src_height ="30px"
+		app:title_rect_startX="0px"
+		app:title_rect_startY="0px"
+		app:title_rect_width="@dimen/y183"
+		app:title_rect_height="@dimen/x30"
+
+		app:numberId="@drawable/numbers"
+		app:number_src_startX="0px"
+		app:number_src_startY="0px"
+		app:number_src_onewidth="15px"
+		app:number_src_oneheight="29px"
+		app:number_rect_onewidth="@dimen/y15"
+		app:number_rect_oneheight="@dimen/x29"
+		android:layout_marginBottom="@dimen/x5"
+
+		/>
+
+
+<LinearLayout
+	android:orientation="horizontal"
+	android:layout_width="@dimen/y183"
+	android:layout_height="@dimen/x44"
+>
+<spirit.parttime.cat.MyImageButton
+ 	android:id="@+id/menu"
+    android:layout_width="@dimen/y86"
+    android:layout_height="@dimen/x44"
+    android:background="@drawable/menu"
+    focusShow_X="0"
+    focusShow_Y="44"
+    focusShow_width="86"
+    focusShow_height="44"
+    unfocusShow_X ="0"
+    unfocusShow_Y ="0"
+    unfocusShow_width ="86"
+    unfocusShow_height ="44"  
+    android:layout_marginRight="10px"
+/>
+<spirit.parttime.cat.MyImageButton
+ 	android:id="@+id/undo"
+    android:layout_width="@dimen/y86"
+    android:layout_height="@dimen/x44"
+    android:background="@drawable/undo"
+    focusShow_X="0"
+    focusShow_Y="44"
+    focusShow_width="86"
+    focusShow_height="44"
+    unfocusShow_X ="0"
+    unfocusShow_Y ="0"
+    unfocusShow_width ="86"
+    unfocusShow_height ="44" 
+    
+/>
+</LinearLayout>
+</LinearLayout>
+
+<LinearLayout
+	android:id="@+id/centerColumn"
+	android:orientation="vertical"
+	android:layout_width="@dimen/y520"
+	android:layout_height="fill_parent"
+	>
+	
+	<spirit.parttime.cat.MyMapView
+	android:id="@+id/mapView"
+	android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    item_id ="@drawable/stage"
+    item_X = "0"
+    item_Y = "0"
+    item_width="42"
+    item_height="42"
+    
+    stopImage_id ="@drawable/zhangai"
+    stop_X = "0"
+    stop_Y = "0"
+    stop_width="45"
+    stop_height="55"
+    
+    cat_sideid ="@drawable/cat_side"
+    cat_backid ="@drawable/cat_back"
+    cat_frontid ="@drawable/cat_front"
+    cat_siderid ="@drawable/cat_side_r"
+    cat_backrid ="@drawable/cat_back_r"
+    cat_frontrid ="@drawable/cat_front_r"
+    cat_X = "0"
+    cat_Y = "0"
+    cat_width="81"
+    cat_height="73"
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/rightColumn"
+	android:orientation="vertical"
+	android:layout_width="@dimen/y59"
+	android:layout_height="fill_parent"
+	android:layout_marginLeft="@dimen/y10"
+	android:layout_marginTop="@dimen/x5">
+	
+	<spirit.parttime.cat.SecondView
+	android:id="@+id/secondView"
+	android:layout_width="@dimen/y53"
+    android:layout_height="@dimen/x53"
+    bgview ="@drawable/daojishi"    
+    numbersview ="@drawable/numbers"   
+	/>
+	<spirit.parttime.cat.TimeBarView
+	android:id="@+id/barView"
+	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    barbgview ="@drawable/timetiao"    
+    barview ="@drawable/timekuang"
+    maxtime ="60"   
+	/>
+</LinearLayout>
+</LinearLayout>
