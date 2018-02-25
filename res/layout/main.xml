@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layout"
+    android:background="@drawable/bg"
+   
+    >
+<LinearLayout
+    android:id="@+id/leftColumn"
+	android:orientation="vertical"
+	android:layout_width="183px"
+	android:layout_height="fill_parent"
+	android:layout_marginTop="5px"
+	android:layout_marginLeft="5px"
+	
+>
+<spirit.parttime.cat.MyTextView
+    android:id="@+id/level"
+    android:layout_width="183px"
+    android:layout_height="83px"
+    android:background="@drawable/kuang"
+    text="3"
+    textrect_X="7"
+    textrect_Y="34"
+    textrect_width="169"
+    textrect_height="26"
+    titleId="@drawable/titles"
+    title_startX ="0"
+    title_startY ="0"
+    title_width ="183"
+    title_height ="30"
+    numberId="@drawable/numbers"
+    number_startX="0"
+    number_startY="0"
+    number_onewidth="15"
+    number_oneheight="29"
+    android:layout_marginBottom="5px"
+    
+/>
+<spirit.parttime.cat.MyTextView
+	android:id="@+id/score"
+    android:layout_width="183px"
+    android:layout_height="83px"
+    android:background="@drawable/kuang"
+    text="1112123"
+    textrect_X="7"
+    textrect_Y="34"
+    textrect_width="169"
+    textrect_height="26"
+    titleId="@drawable/titles"
+    title_startX ="0"
+    title_startY ="28"
+    title_width ="183"
+    title_height ="30"
+    numberId="@drawable/numbers"
+    number_startX="0"
+    number_startY="0"
+    number_onewidth="15"
+    number_oneheight="29"
+    android:layout_marginBottom="5px"
+    
+/>
+<spirit.parttime.cat.MyLivesTextView
+	android:id="@+id/lives"
+    android:layout_width="183px"
+    android:layout_height="83px"
+    android:background="@drawable/kuang"
+    text="3"
+    textrect_X="7"
+    textrect_Y="34"
+    textrect_width="169"
+    textrect_height="26"
+    titleId="@drawable/titles"
+    title_startX ="0"
+    title_startY ="57"
+    title_width ="183"
+    title_height ="30"
+    numberId="@drawable/life_icon"
+    number_startX="0"
+    number_startY="0"
+    number_onewidth="40"
+    number_oneheight="43"
+    android:layout_marginBottom="80px"
+    
+/>
+<spirit.parttime.cat.MyTextView
+    android:id="@+id/hscore"
+    android:layout_width="183px"
+    android:layout_height="83px"
+    android:background="@drawable/kuang"
+    text="1234567890"
+    textrect_X="7"
+    textrect_Y="34"
+    textrect_width="169"
+    textrect_height="26"
+    titleId="@drawable/titles"
+    title_startX ="0"
+    title_startY ="87"
+    title_width ="183"
+    title_height ="30"
+    numberId="@drawable/numbers"
+    number_startX="0"
+    number_startY="0"
+    number_onewidth="15"
+    number_oneheight="29"
+    android:layout_marginBottom="5px"
+    
+/>
+
+<LinearLayout
+	android:orientation="horizontal"
+	android:layout_width="183px"
+	android:layout_height="44px"
+>
+<spirit.parttime.cat.MyImageButton
+ 	android:id="@+id/menu"
+    android:layout_width="86px"
+    android:layout_height="44px"
+    android:background="@drawable/menu"
+    focusShow_X="0"
+    focusShow_Y="44"
+    focusShow_width="86"
+    focusShow_height="44"
+    unfocusShow_X ="0"
+    unfocusShow_Y ="0"
+    unfocusShow_width ="86"
+    unfocusShow_height ="44"  
+    android:layout_marginRight="10px"
+/>
+<spirit.parttime.cat.MyImageButton
+ 	android:id="@+id/undo"
+    android:layout_width="86px"
+    android:layout_height="44px"
+    android:background="@drawable/undo"
+    focusShow_X="0"
+    focusShow_Y="44"
+    focusShow_width="86"
+    focusShow_height="44"
+    unfocusShow_X ="0"
+    unfocusShow_Y ="0"
+    unfocusShow_width ="86"
+    unfocusShow_height ="44" 
+    
+/>
+</LinearLayout>
+</LinearLayout>
+
+<LinearLayout
+	android:id="@+id/centerColumn"
+	android:orientation="vertical"
+	android:layout_width="520px"
+	android:layout_height="fill_parent"
+	>
+	
+	<spirit.parttime.cat.MyMapView
+	android:id="@+id/mapView"
+	android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    item_id ="@drawable/stage"
+    item_X = "0"
+    item_Y = "0"
+    item_width="42"
+    item_height="42"
+    
+    stopImage_id ="@drawable/zhangai"
+    stop_X = "0"
+    stop_Y = "0"
+    stop_width="45"
+    stop_height="55"
+    
+    cat_sideid ="@drawable/cat_side"
+    cat_backid ="@drawable/cat_back"
+    cat_frontid ="@drawable/cat_front"
+    cat_siderid ="@drawable/cat_side_r"
+    cat_backrid ="@drawable/cat_back_r"
+    cat_frontrid ="@drawable/cat_front_r"
+    cat_X = "0"
+    cat_Y = "0"
+    cat_width="81"
+    cat_height="73"
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/rightColumn"
+	android:orientation="vertical"
+	android:layout_width="59px"
+	android:layout_height="fill_parent"
+	android:layout_marginLeft="10px"
+	android:layout_marginTop="5px">
+	
+	<spirit.parttime.cat.SecondView
+	android:id="@+id/secondView"
+	android:layout_width="53px"
+    android:layout_height="53px"
+    bgview ="@drawable/daojishi"    
+    numbersview ="@drawable/numbers"   
+	/>
+	<spirit.parttime.cat.TimeBarView
+	android:id="@+id/barView"
+	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    barbgview ="@drawable/timetiao"    
+    barview ="@drawable/timekuang"
+    maxtime ="60"   
+	/>
+</LinearLayout>
+</LinearLayout>
